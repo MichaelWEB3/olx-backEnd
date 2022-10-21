@@ -1,0 +1,29 @@
+users
+ - _id
+ - name
+ - email
+ - state
+ - passwordhash
+ - token
+
+ states
+ - nome 
+ - id
+
+ categories 
+ - id
+ - nome
+ - slug
+
+ ads 
+ - _id
+ - imgs[{url:img,defalt:true}]
+ - idUser
+ - dateCreated
+ - category
+ - price 
+ - priceNegocible
+ - descripition
+ - views
+ - status
+ - state
